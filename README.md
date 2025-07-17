@@ -1,5 +1,5 @@
-# flaskfaceapp
-flaskfaceapp : Face Detection App # App Engine # Python # Flask # GCP # Web
+# flaskfaceapp 🫖😳
+flaskfaceapp : Face Detection App # App Engine # Python # Flask # Jinja2 # Vision # GCP # Web
 
 
 ## Objective
