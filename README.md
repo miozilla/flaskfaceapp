@@ -4,7 +4,7 @@ flaskfaceapp : Face Detection App # App Engine # Python # Flask # Jinja2 # Visio
 
 ## Objective
 - To deploy Python Flask Web Application to Google Cloud App Engine Flexible environment
-- To leverage Cloud Vision API
+- To leverage Cloud Vision API, Flask Web framework and Jinja2 as template engine.
 
 
 ## Python Flask Web Application to App Engine Flexible
